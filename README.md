@@ -1,1 +1,1 @@
-Reopsitória para Monografia e código fonte do projeto.
+Reopsitório para Monografia e código fonte do projeto.
