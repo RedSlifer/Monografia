@@ -1,1 +1,1 @@
-Reopsitório para Monografia e código fonte do projeto.
+Repositório para Monografia e código fonte do projeto.
